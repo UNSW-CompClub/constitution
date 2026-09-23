@@ -188,13 +188,6 @@ Secretary
    #. To have a thorough knowledge of the Club's constitution;
    #. To ensure that changes made to the constitution at an EGM or AGM are in line with Arc requirements;
    #. To ensure that Arc is informed of any changes to the Executive; and
-   #. To assume the role of Arc Delegate and its duties:
-		#. To be aware of the Arc funding system, its requirements and its possibilities for the club;
-		#. To communicate with the Executive before and after each Arc Clubs Briefing to pass on information (about grants etc);
-		#. To liaise with Arc and the club's Executive;
-		#. To have a good working knowledge of Arc forms;
-		#. To collect mail on behalf of the Club from the Arc Clubs Space at least every two weeks; and
-		#. To attend Arc Clubs Briefings or nominate a fellow club member to attend on their behalf, or send apologies in advance (taking the form of an email detailing their name, club, and the date of the meeting they cannot attend).
    #. To assume the role of Treasurer and its duties: 
 		#. To keep and maintain all club financial records;
 		#. To hold cheque books, petty cash tins etc;
@@ -240,6 +233,21 @@ Community Liaison
    #. Undertake training as required to build understanding of how to look out for your peers and how to improve the internal culture of your Club; and,
    #. Other relevant duties as required.
 
+Communications Officer:
+
+#. The duties of the Communications Officer shall be:
+
+   #. To seek out sponsorship on behalf of the club;
+   #. To maintain relationships with current sponsors and collaborators on behalf of the club;
+   #. To liaise with the School on matters aligning with the club's goals, including but not limited to: providing assistance, statistics, collaborating on initiatives;
+   #. Other relevant duties as required; and
+   #. To assume the role of Arc Delegate and its duties:
+		#. To be aware of the Arc funding system, its requirements and its possibilities for the club;
+		#. To communicate with the Executive before and after each Arc Clubs Briefing to pass on information (about grants etc);
+		#. To liaise with Arc and the club's Executive;
+		#. To have a good working knowledge of Arc forms;
+		#. To collect mail on behalf of the Club from the Arc Clubs Space at least every two weeks; and
+		#. To attend Arc Clubs Briefings or nominate a fellow club member to attend on their behalf, or send apologies in advance (taking the form of an email detailing their name, club, and the date of the meeting they cannot attend).
 
 Vice Presidents:
 """"""""""""""""
