@@ -64,7 +64,7 @@ Membership
    #. That person completes the membership form prepared by the club Executive
    #. Associate membership shall not require any fee
 
-#. The duration of a person's membership shall be until the Club's next Annual General Meeting after they have become a member, or until the end of Week One in Term One of the University year after they have become a member, whichever is the latter.
+#. A person's membership commences on the date they purchase membership and remains valid until the end of Week Three of Term One of the following calendar year.
 #. The Club shall comply with Anti-Discrimination legislation in all of its activities and procedures, including the granting of club membership.
 #. Notwithstanding clause 9, a member of the Club Executive may have their position declared vacant according to the procedures set out in Section 3.1 clause 7.
 #. Notwithstanding clauses 8 and 9, an Executive, a member or associate member of the Club may have their membership terminated after the following procedure is followed:
@@ -87,7 +87,7 @@ Membership
       #. Executive as listed within their Constitution,
       #. the person(s) in question,
       #. a support person for each of the person(s) in question, as required
-      #. Any member of Arc Clubs Management, as required
+      #. Any member of Arc, as required
 
    #. The person(s) in question must be afforded procedural fairness, including five (5) minutes to speak against the motion. (refer to Arc Clubs Policy Section E, 33.5 - 33.11)
    #. The motion is carried by the General Meeting.
@@ -142,7 +142,7 @@ The Executive Generally
    #. Are removed from their role by majority vote of the executive.
 
 #. Any vacancy on the club Executive must be filled at an Extraordinary General Meeting, via the procedures outlined in Section 4.3, unless covered by clause 10.
-#. Executive positions that become vacant less than one (1) month before the yearly affiliation period may be filled by majority vote of the Executive. People appointed this way will be 'Acting' in the position, may not be the President or Treasurer, may not be a bank signatory and cannot act as Arc Membership Portal administrators.
+#. Executive positions that become vacant less than one (1) month before the yearly affiliation period may be filled by majority vote of the Executive. People appointed this way will be 'Acting' in the position, may not be the President or Treasurer, may not be a bank signatory and cannot act as Rubric administrators.
 #. Duties of the following Executive positions shall include but not be limited to:
 
 
@@ -373,12 +373,12 @@ Returning Officer
 #. At least one (1) Returning Officer must be appointed by the Executive prior to a General Meeting at which an election will take place.
 #. The Returning Officers duties are as follows:
 
-   #. Ensure that they are at all times impartial and objective and cannot be determined to have a real or perceived conflict of interest by Club members, Executive or by Arc Clubs Management.
+   #. Ensure that they are at all times impartial and objective and cannot be determined to have a real or perceived conflict of interest by Club members, Executive or by Arc.
    #. Ensure that all elections are run fairly and in line with the rules set out by this Club's Constitution and according to Arc Clubs Policy and Procedure.
    #. Prepare and circulate all notices of election, nominations, voting and proxies to be held as part of any General Meeting in which an election is to take place.
    #. Provide all members with access to an email address that is designated for use by the Returning Officer over the course of their duties.
    #. Accept all nominations submitted that satisfy the rules of this Club's Constitution and Arc Clubs Policy and treat any defective or late nominations in the manner prescribed by this Club's Constitution and/or Arc policy.
-   #. If voting is to take place online, ensure that the appointed Returning Officer(s) are the only person(s), alongside Arc Clubs Management, with access to the voting forms and spreadsheets.
+   #. If voting is to take place online, ensure that the appointed Returning Officer(s) are the only person(s), alongside Arc, with access to the voting forms and spreadsheets.
    #. If voting is to take place in person, ensure that they have provided all members with instructions surrounding proxies, have received any proxies via accepted channels and determined the validity of proxies submitted prior to the General Meeting taking place.
    #. Runs the portion of the General Meeting pertaining to the election of candidates.
    #. Allows for at least 1 scrutineer per candidate, (who cannot be the candidate themselves) to be present for the counting of votes, if this is held in person, or for that person to be provided access to the voting sheets if the election was held online.
@@ -432,7 +432,7 @@ Meetings
    #. Each voting member is entitled to one vote;
    #. Directed proxies shall be allowed in meetings and the procedure shall comply with the requirements of Arc;
    #. Only a Returning Officer, or in their absence, meeting Chair, may hold proxy votes;
-   #. Elections for Executive shall use the "optional preferential" system;
+   #. Elections for Executive shall use the "Regular Single Transferable Vote (STV) / Instant Runoff Voting (IRV)" system;
    #. In the case of equality of voting, the President may a cast an extra vote to break the tie.
 
    #. Constitutional changes must be in the form of a motion on notice to an Annual or Extraordinary General Meeting;
