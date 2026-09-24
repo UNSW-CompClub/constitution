@@ -252,7 +252,7 @@ Communications Officer:
 Vice Presidents:
 """"""""""""""""
 
-#. The common duties of the Vice President (Technical), Vice President (Outreach) and Vice President (Operations) shall be:
+#. The common duties of the Vice President (Technical), Vice President (Education - External), Vice President (Education - Internal) and Vice President (Operations) shall be:
 
    #. In the absence of the president, to chair all Club, Committee, General and Annual General Meetings (held during their term) of the Club;
    #. To assist the President in coordinating the activities and administration of the Club wherever practical;
@@ -266,15 +266,20 @@ Vice Presidents:
 
 #. The duties of the Vice President (Technical) shall be:
 
-   #. To supervise events conducted within the University and related Portfolios;
-   #. To communicate with the Executive before and after any relevant Meetings with the School, to pass on information;
-   #. To liaise with the School and the club's Executive;
+   #. To supervise the technical development of the club and related Portfolios;
    #. Other relevant duties as required.
 
-#. The duties of the Vice President (Outreach) shall be:
+#. The duties of the Vice President (Education - External) shall be:
 
    #. To supervise the external-facing aspects of the Club, including events conducted at high schools and related Portfolios;
    #. To sustain and build external relationships with high schools and sponsors for CompClub;
+   #. Other relevant duties as required.
+
+#. The duties of the Vice President (Education - Internal) shall be:
+
+   #. To supervise events conducted within the University and related Portfolios;
+   #. To communicate with the Executive before and after any relevant Meetings with the School, to pass on information;
+   #. To liaise with the School and the club's Executive;
    #. Other relevant duties as required.
 
 #. The duties of the Vice President (Operations) shall be:
