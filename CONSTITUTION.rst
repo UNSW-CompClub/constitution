@@ -234,7 +234,7 @@ Community Liaison
    #. Other relevant duties as required.
 
 Communications Officer:
-
+"""""""""""""""""""""""
 #. The duties of the Communications Officer shall be:
 
    #. To seek out sponsorship on behalf of the club;
