@@ -64,7 +64,7 @@ Membership
    #. That person completes the membership form prepared by the club Executive
    #. Associate membership shall not require any fee
 
-#. The duration of a person's membership shall be until the Club's next Annual General Meeting after they have become a member, or until the end of Week One in Term One of the University year after they have become a member, whichever is the latter.
+#. A person's membership commences on the date they purchase membership and remains valid until the end of Week Three of Term One of the following calendar year.
 #. The Club shall comply with Anti-Discrimination legislation in all of its activities and procedures, including the granting of club membership.
 #. Notwithstanding clause 9, a member of the Club Executive may have their position declared vacant according to the procedures set out in Section 3.1 clause 7.
 #. Notwithstanding clauses 8 and 9, an Executive, a member or associate member of the Club may have their membership terminated after the following procedure is followed:
@@ -87,7 +87,7 @@ Membership
       #. Executive as listed within their Constitution,
       #. the person(s) in question,
       #. a support person for each of the person(s) in question, as required
-      #. Any member of Arc Clubs Management, as required
+      #. Any member of Arc, as required
 
    #. The person(s) in question must be afforded procedural fairness, including five (5) minutes to speak against the motion. (refer to Arc Clubs Policy Section E, 33.5 - 33.11)
    #. The motion is carried by the General Meeting.
@@ -142,7 +142,7 @@ The Executive Generally
    #. Are removed from their role by majority vote of the executive.
 
 #. Any vacancy on the club Executive must be filled at an Extraordinary General Meeting, via the procedures outlined in Section 4.3, unless covered by clause 10.
-#. Executive positions that become vacant less than one (1) month before the yearly affiliation period may be filled by majority vote of the Executive. People appointed this way will be 'Acting' in the position, may not be the President or Treasurer, may not be a bank signatory and cannot act as Arc Membership Portal administrators.
+#. Executive positions that become vacant less than one (1) month before the yearly affiliation period may be filled by majority vote of the Executive. People appointed this way will be 'Acting' in the position, may not be the President or Treasurer, may not be a bank signatory and cannot act as Rubric administrators.
 #. Duties of the following Executive positions shall include but not be limited to:
 
 
@@ -188,13 +188,6 @@ Secretary
    #. To have a thorough knowledge of the Club's constitution;
    #. To ensure that changes made to the constitution at an EGM or AGM are in line with Arc requirements;
    #. To ensure that Arc is informed of any changes to the Executive; and
-   #. To assume the role of Arc Delegate and its duties:
-		#. To be aware of the Arc funding system, its requirements and its possibilities for the club;
-		#. To communicate with the Executive before and after each Arc Clubs Briefing to pass on information (about grants etc);
-		#. To liaise with Arc and the club's Executive;
-		#. To have a good working knowledge of Arc forms;
-		#. To collect mail on behalf of the Club from the Arc Clubs Space at least every two weeks; and
-		#. To attend Arc Clubs Briefings or nominate a fellow club member to attend on their behalf, or send apologies in advance (taking the form of an email detailing their name, club, and the date of the meeting they cannot attend).
    #. To assume the role of Treasurer and its duties: 
 		#. To keep and maintain all club financial records;
 		#. To hold cheque books, petty cash tins etc;
@@ -240,11 +233,26 @@ Community Liaison
    #. Undertake training as required to build understanding of how to look out for your peers and how to improve the internal culture of your Club; and,
    #. Other relevant duties as required.
 
+Communications Officer:
+"""""""""""""""""""""""
+#. The duties of the Communications Officer shall be:
+
+   #. To seek out sponsorship on behalf of the club;
+   #. To maintain relationships with current sponsors and collaborators on behalf of the club;
+   #. To liaise with the School on matters aligning with the club's goals, including but not limited to: providing assistance, statistics, collaborating on initiatives;
+   #. Other relevant duties as required; and
+   #. To assume the role of Arc Delegate and its duties:
+		#. To be aware of the Arc funding system, its requirements and its possibilities for the club;
+		#. To communicate with the Executive before and after each Arc Clubs Briefing to pass on information (about grants etc);
+		#. To liaise with Arc and the club's Executive;
+		#. To have a good working knowledge of Arc forms;
+		#. To collect mail on behalf of the Club from the Arc Clubs Space at least every two weeks; and
+		#. To attend Arc Clubs Briefings or nominate a fellow club member to attend on their behalf, or send apologies in advance (taking the form of an email detailing their name, club, and the date of the meeting they cannot attend).
 
 Vice Presidents:
 """"""""""""""""
 
-#. The common duties of the Vice President (Technical), Vice President (Outreach) and Vice President (Operations) shall be:
+#. The common duties of the Vice President (Technical), Vice President (Education - External), Vice President (Education - Internal) and Vice President (Operations) shall be:
 
    #. In the absence of the president, to chair all Club, Committee, General and Annual General Meetings (held during their term) of the Club;
    #. To assist the President in coordinating the activities and administration of the Club wherever practical;
@@ -258,15 +266,20 @@ Vice Presidents:
 
 #. The duties of the Vice President (Technical) shall be:
 
-   #. To supervise events conducted within the University and related Portfolios;
-   #. To communicate with the Executive before and after any relevant Meetings with the School, to pass on information;
-   #. To liaise with the School and the club's Executive;
+   #. To supervise the technical development of the club and related Portfolios;
    #. Other relevant duties as required.
 
-#. The duties of the Vice President (Outreach) shall be:
+#. The duties of the Vice President (Education - External) shall be:
 
    #. To supervise the external-facing aspects of the Club, including events conducted at high schools and related Portfolios;
    #. To sustain and build external relationships with high schools and sponsors for CompClub;
+   #. Other relevant duties as required.
+
+#. The duties of the Vice President (Education - Internal) shall be:
+
+   #. To supervise events conducted within the University and related Portfolios;
+   #. To communicate with the Executive before and after any relevant Meetings with the School, to pass on information;
+   #. To liaise with the School and the club's Executive;
    #. Other relevant duties as required.
 
 #. The duties of the Vice President (Operations) shall be:
@@ -373,12 +386,12 @@ Returning Officer
 #. At least one (1) Returning Officer must be appointed by the Executive prior to a General Meeting at which an election will take place.
 #. The Returning Officers duties are as follows:
 
-   #. Ensure that they are at all times impartial and objective and cannot be determined to have a real or perceived conflict of interest by Club members, Executive or by Arc Clubs Management.
+   #. Ensure that they are at all times impartial and objective and cannot be determined to have a real or perceived conflict of interest by Club members, Executive or by Arc.
    #. Ensure that all elections are run fairly and in line with the rules set out by this Club's Constitution and according to Arc Clubs Policy and Procedure.
    #. Prepare and circulate all notices of election, nominations, voting and proxies to be held as part of any General Meeting in which an election is to take place.
    #. Provide all members with access to an email address that is designated for use by the Returning Officer over the course of their duties.
    #. Accept all nominations submitted that satisfy the rules of this Club's Constitution and Arc Clubs Policy and treat any defective or late nominations in the manner prescribed by this Club's Constitution and/or Arc policy.
-   #. If voting is to take place online, ensure that the appointed Returning Officer(s) are the only person(s), alongside Arc Clubs Management, with access to the voting forms and spreadsheets.
+   #. If voting is to take place online, ensure that the appointed Returning Officer(s) are the only person(s), alongside Arc, with access to the voting forms and spreadsheets.
    #. If voting is to take place in person, ensure that they have provided all members with instructions surrounding proxies, have received any proxies via accepted channels and determined the validity of proxies submitted prior to the General Meeting taking place.
    #. Runs the portion of the General Meeting pertaining to the election of candidates.
    #. Allows for at least 1 scrutineer per candidate, (who cannot be the candidate themselves) to be present for the counting of votes, if this is held in person, or for that person to be provided access to the voting sheets if the election was held online.
@@ -432,7 +445,7 @@ Meetings
    #. Each voting member is entitled to one vote;
    #. Directed proxies shall be allowed in meetings and the procedure shall comply with the requirements of Arc;
    #. Only a Returning Officer, or in their absence, meeting Chair, may hold proxy votes;
-   #. Elections for Executive shall use the "optional preferential" system;
+   #. Elections for Executive shall use the "Regular Single Transferable Vote (STV) / Instant Runoff Voting (IRV)" system;
    #. In the case of equality of voting, the President may a cast an extra vote to break the tie.
 
    #. Constitutional changes must be in the form of a motion on notice to an Annual or Extraordinary General Meeting;
